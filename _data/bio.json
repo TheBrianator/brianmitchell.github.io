@@ -1,13 +1,13 @@
 {
   "basics": {
-    "name": "Molly Maluhiala",
+    "name": "Brian Mitchell",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": ""https://github.com/thebrianator.png",",
+    "email": "bmitch0033@my.sullivan.edu",
+    "phone": "N/A",
+    "website": "https://thebrianator.github.io"
+    "summary": "I am studying for a Associate's Degree in Computer Science in the Department of Information and Computer Sciences at Sullivan University. I expect to graduate in Fall, 2023.",
+    "location": { "address": "N/A", "postalCode": "N/A", "city": "N/A", "countryCode": "N/A", "region": "N/A" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
@@ -16,11 +16,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Video Games" },
+    { "name": "Entrepreneurship" },
+    { "name": "Entertainment" },
+    { "name": "Music" },
+    { "name": "Comics" }
   ],
   "skills": [
     {
