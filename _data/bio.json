@@ -43,7 +43,7 @@
       ]
     }
   ],
-  "work": "["Kroger"]"
+  "work": "["Kroger and Zaxby's"]"
     {
       "company": "Kroger",
       "position": "Grpcery and Curbside Pickup ",
@@ -57,11 +57,11 @@
       ]
     },
     {
-      "company": "N/A",
-      "position": "N/A",
-      "website": "N/A",
-      "startDate": "N/A",
-      "endDate": "N/A",
+      "company": "Zaxby's",
+      "position": "Cook",
+      "website": "https://www.zaxbys.com/",
+      "startDate": "June 2019",
+      "endDate": "August 2019",
       "summary": "",
       "highlights": [
         ""
@@ -82,11 +82,11 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Catholic Charities of Louisville",
+      "website": "https://cclou.org/",
+      "position": "Student Volunteer",
+      "startDate": "October 2017",
+      "endDate": "Sometime in 2019",
       "summary": "",
       "highlights": [
         "",
@@ -95,15 +95,15 @@
       ]
     }
   ],
-  "awards": [
+  "awards": ["Academic"
     {
-      "title": "",
-      "date": "",
+      "title": "High School Diploma",
+      "date": "May 2021",
       "awarder": "",
       "summary": ""
     },
     {
-      "title":"",
+      "title":"Chemistry Honor Award",
       "date": "",
       "awarder": "",
       "summary": ""
